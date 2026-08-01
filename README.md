@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Software Developer with experience in building real-world scalable applications. Skilled in Java, Spring Boot, ReactJS, REST APIs, and database management, with knowledge of cloud services like AWS. Passionate about developing efficient, user-friendly, and high-performance applications while continuously learning modern technologies.
 
 
